@@ -44,3 +44,7 @@ staff at risk section and everything on there still has white text on top of whi
 some texts are still not matching with one next to it and some texts are on dark text on dark background. have thorough examination and optimize page 
 icon on verified alert is different color than others. 'Download sample PDF briefing' is dark letter on dark background. fix it
 change color of 'Download sample PDF briefing' to white
+can you actually make it functional? like all features working
+Update the CTA buttons: 
+- “Schedule a Demo” → link to https://calendly.com/william-lee-bbc/30min
+- “Get Sample Report” → link to https://drive.google.com/uc?export=download&id=1QgIWy40Aza8cnNdg9YSUKC2tXM99wX_l
