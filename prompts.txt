@@ -48,3 +48,9 @@ can you actually make it functional? like all features working
 Update the CTA buttons: 
 - “Schedule a Demo” → link to https://calendly.com/william-lee-bbc/30min
 - “Get Sample Report” → link to https://drive.google.com/uc?export=download&id=1QgIWy40Aza8cnNdg9YSUKC2tXM99wX_l
+Update the pricing table buttons:
+- The “Get Started” button under Starter links to https://buy.stripe.com/5kQ8wHcD94Lj5T07fIe3e00 and opens in a new tab.
+- The “Get Started” button under Growth links to https://buy.stripe.com/6oU4gr8mT5Pna9gdE6e3e01 and opens in a new tab.
+- The “Contact Sales” button under Enterprise opens the email client with william.lee.bbc@gmail.com as the recipient.
+
+get rid of Download sample PDF briefing
