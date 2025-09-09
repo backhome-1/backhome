@@ -1,0 +1,46 @@
+Create a modern, professional B2B SaaS landing page for a startup called BackHome.
+
+Headline: "Employees back home, safely."
+Sub-headline: "Real-time, human-verified risk alerts for corporate travel — built by a former BBC reporter with 80+ country field experience."
+Call-to-action button: "Book a 15-min Pilot Call" (Calendly link placeholder)
+
+Sections:
+1. Hero section with logo placeholder, background image of business travel, and Book a Demo button.
+2. Problem section titled "Finding out after the crisis is too late." 
+   - Bullets: Companies lose millions when trips are disrupted; Delays in information put staff at risk; Duty of Care laws mean legal and reputational damage when safety fails.
+3. Solution section titled "BackHome keeps your travelers ahead of the crisis." 
+   - Bullets: Real-time alerts verified by analysts using OSINT; Concise Do/Don’t actions; Delivered via Email, SMS, or WhatsApp.
+4. Product snapshot:
+   - Mockup card of a sample alert: "Protest in central Bangkok — Avoid downtown after 6pm."
+   - Downloadable sample PDF briefing (placeholder link).
+   - Dashboard preview image (mockup).
+5. Trust & credibility section:
+   - Text: "Founded by a former BBC journalist, reported from 80+ countries."
+   - Logos: BBC, CNN, United Nations (placeholders).
+   - Quote/testimonial placeholder.
+6. Pricing section:
+   - "Free 30-Day Pilot"
+   - Starter (up to 10 travelers): $1,000/month
+   - Growth (up to 50 travelers): $3,000/month
+   - Enterprise: Custom
+   - Include what’s covered: daily monitoring, immediate alerts, weekly briefings.
+7. Call-to-action footer with two options:
+   - "Schedule a Demo" (Calendly link placeholder)
+   - "Get Sample Report" (email capture form connected to Mailchimp/Google Form placeholder)
+
+Design:
+- Clean SaaS style, corporate but modern.
+- Use black and white as main color
+- Responsive for desktop and mobile.
+
+SEO keywords:
+Corporate travel safety, travel risk alerts, Duty of Care, risk management for business travel.
+
+can we make website a bit more luxurious and trustworthy? you can play around with colors and all that
+can we have black background? also. some pictures don't match
+some texts are invisible. fix it please. 
+they aren't fixed. some white texts are in white background, thus invisible. they are prevalent throughout
+staff at risk section and everything on there still has white text on top of white background, thus invisible. fix everything, not just one
+some texts are still not matching with one next to it and some texts are on dark text on dark background. have thorough examination and optimize page 
+icon on verified alert is different color than others. 'Download sample PDF briefing' is dark letter on dark background. fix it
+change color of 'Download sample PDF briefing' to white
