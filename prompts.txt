@@ -54,3 +54,4 @@ Update the pricing table buttons:
 - The “Contact Sales” button under Enterprise opens the email client with william.lee.bbc@gmail.com as the recipient.
 
 get rid of Download sample PDF briefing
+this is my logo. add it to relevant spot. 
