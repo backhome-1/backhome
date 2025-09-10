@@ -55,3 +55,4 @@ Update the pricing table buttons:
 
 get rid of Download sample PDF briefing
 this is my logo. add it to relevant spot. 
+book a call button doesn't work. fix it
